@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, I'm Onur 👋
+
+I'm an engineer, writer, and DJ who dabbles in design with a strong sense of aesthetics, where currently developing things on [yemek.com](yemek.com) at [Yemeksepeti](https://github.com/yemeksepeti).
+
+- [Blog](https://onur.dev/)
+- [Medium](https://medium.com/@suyalcinkaya)
+- [Soundcloud](https://soundcloud.com/jagerman)
+- [Youtube](https://www.youtube.com/channel/UCZFXUds0G7LdgHi1_5_K0tw)
 
 <!--
 **suyalcinkaya/suyalcinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
