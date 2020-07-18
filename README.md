@@ -7,6 +7,8 @@ I'm an engineer, writer, and DJ who dabbles in design with a strong sense of aes
 - [Soundcloud](https://soundcloud.com/jagerman)
 - [Youtube](https://www.youtube.com/channel/UCZFXUds0G7LdgHi1_5_K0tw)
 
+✨ I’m currently learning React Native and Swift.
+
 <!--
 **suyalcinkaya/suyalcinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
