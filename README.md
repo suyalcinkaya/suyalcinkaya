@@ -1,6 +1,6 @@
 ### Hey, I'm Onur 👋
 
-I'm a software engineer, writer, and DJ who dabbles in design with a strong sense of aesthetics, where currently developing things on [yemek.com](https://yemek.com) at [Yemeksepeti](https://github.com/yemeksepeti).
+I'm a software engineer, writer, and DJ who dabbles in design with a strong sense of aesthetics, where currently developing things at [heycar](https://hey.car).
 
 - [Blog](https://onur.dev/)
 - [Medium](https://medium.com/@suyalcinkaya)
