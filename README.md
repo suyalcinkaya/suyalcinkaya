@@ -1,6 +1,6 @@
 ### Hey, I'm Onur 👋
 
-I'm a software engineer, writer, and DJ who dabbles in design with a strong sense of aesthetics, where currently developing things at [heycar](https://hey.car).
+I'm a Frontend Engineer, JavaScript enthusiast, DJ, writer and minimalist. Currently living in Berlin, Germany and developing things at [heycar](https://hey.car).
 
 - [Blog](https://onur.dev/)
 - [Medium](https://medium.com/@suyalcinkaya)
