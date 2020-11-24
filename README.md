@@ -1,8 +1,8 @@
 **Hey, I'm Onur** 👋
 
-I'm a frontend engineer, javascript enthusiast, dj, writer and minimalist. Currently I'm living in Berlin, Germany and developing things at [heycar](https://hey.car).
+I'm a frontend engineer, javascript enthusiast, dj, writer and minimalist living in Berlin, Germany. Currently I'm developing things at [heycar](https://hey.car).
 
-[More about me &rarr;](https://onur.dev/me)<br />
+[More about me &rarr;](https://onur.dev/about)<br />
 [My personal website &rarr;](https://onur.dev/me)<br />
 [@onursdev on Twitter &rarr;](https://twitter.com/onursdev)
 
