@@ -37,7 +37,7 @@ A CSS file emphasizing about possible improvements and errors that exist in HTML
 
 ### Mixtapes
 
-One of my biggest passion is music.
+One of my biggest passions is music.
 
 [Listen some mixtapes &rarr;](https://soundcloud.com/jagerman)<br />
 [Also check out me on Youtube &rarr;](https://www.youtube.com/channel/UCZFXUds0G7LdgHi1_5_K0tw)
