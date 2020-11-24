@@ -1,25 +1,49 @@
-### Hey, I'm Onur 👋
+**Hey, I'm Onur** 👋
 
-I'm a Frontend Engineer, JavaScript enthusiast, DJ, writer and minimalist. Currently living in Berlin, Germany and developing things at [heycar](https://hey.car).
+I'm a frontend engineer, javascript enthusiast, dj, writer and minimalist. Currently I'm living in Berlin, Germany and developing things at [heycar](https://hey.car).
 
-- [Blog](https://onur.dev/)
-- [Medium](https://medium.com/@suyalcinkaya)
-- [Soundcloud](https://soundcloud.com/jagerman)
-- [Youtube](https://www.youtube.com/channel/UCZFXUds0G7LdgHi1_5_K0tw)
+[More about me &rarr;](https://onur.dev/me)<br />
+[My personal website &rarr;](https://onur.dev/me)<br />
+[@onursdev on Twitter &rarr;](https://twitter.com/onursdev)
 
-✨ I’m currently learning German, React Native and Swift.
+### Writing
 
-<!--
-**suyalcinkaya/suyalcinkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like to think out loud and write about code, design, and a bit of my thoughts.
 
-Here are some ideas to get you started:
+[Read some posts &rarr;](https://onur.dev)<br />
+[Also check out me on Medium &rarr;](https://medium.com/@suyalcinkaya)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Open source work
+
+Small just-for-fun weekend open source projects/works I've been working on.
+
+[Notebook](https://github.com/suyalcinkaya/notebook)<br />
+My personal notebook.
+
+[Notiful](https://github.com/suyalcinkaya/notiful)<br />
+An open source minimal and clean taking notes extension for Chrome written in React.
+
+[Koalazily](https://github.com/suyalcinkaya/koalazily)<br />
+Loading images lazily in a modern way using Intersection Observer API.
+
+[Karussel](https://github.com/suyalcinkaya/karussel)<br />
+A minimal React based carousel/slider component.
+
+[Browsefy](https://github.com/suyalcinkaya/browsefy)<br />
+A lightweight browser detector.
+
+[a11y.css](https://github.com/suyalcinkaya/a11y.css)<br />
+A CSS file emphasizing about possible improvements and errors that exist in HTML semantic elements.
+
+### Mixtapes
+
+One of my biggest passion is music.
+
+[Listen some mixtapes &rarr;](https://soundcloud.com/jagerman)<br />
+[Also check out me on Youtube &rarr;](https://www.youtube.com/channel/UCZFXUds0G7LdgHi1_5_K0tw)
+
+### Support
+
+If you find there's any value in what I do and feel generous to want to help, you can support directly.
+
+[Support me on Ko-fi &rarr;](https://ko-fi.com/suyalcinkaya)
