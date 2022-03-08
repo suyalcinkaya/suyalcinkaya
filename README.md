@@ -4,7 +4,7 @@ I'm a frontend engineer, javascript enthusiast, dj, writer and minimalist living
 
 [More about me &rarr;](https://onur.dev/about)<br />
 [My personal website &rarr;](https://onur.dev/me)<br />
-[@onurshu_ on Twitter &rarr;](https://twitter.com/onurshu_)
+[@onurschu on Twitter &rarr;](https://twitter.com/onurschu)
 
 ### Writing
 
