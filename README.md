@@ -1,9 +1,9 @@
 **Hey, I'm Onur** 👋
 
-I'm a frontend engineer, javascript enthusiast, dj, writer and minimalist living in Berlin, Germany. Currently I'm developing things at [heycar](https://hey.car).
+I'm a Software Engineer, JavaScript enthusiast, DJ, writer and minimalist, living in Berlin, Germany. I'm currently developing things at [heycar](https://hey.car).
 
 [More about me &rarr;](https://onur.dev/about)<br />
-[My personal website &rarr;](https://onur.dev/me)<br />
+[My personal website &rarr;](https://onur.dev)<br />
 [@onurschu on Twitter &rarr;](https://twitter.com/onurschu)
 
 ### Writing
@@ -41,9 +41,3 @@ One of my biggest passions is music.
 
 [Listen some mixtapes &rarr;](https://soundcloud.com/jagerman)<br />
 [Also check out me on Youtube &rarr;](https://www.youtube.com/channel/UCZFXUds0G7LdgHi1_5_K0tw)
-
-### Support
-
-If you find there's any value in what I do and feel generous to want to help, you can support directly.
-
-[Support me on Ko-fi &rarr;](https://ko-fi.com/suyalcinkaya)
